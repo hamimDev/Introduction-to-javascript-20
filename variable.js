@@ -1,0 +1,11 @@
+var price =11;
+var age =18;
+var temperature =38;
+var weight =59;
+var cost =55;
+var location = "bari me" ;
+var anime = "kaf er" ;
+var they = 'she and me' ;
+var men = true;
+var sun = true;
+var single = true;
